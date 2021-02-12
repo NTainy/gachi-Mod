@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Sich",
+		"name": "Gym",
 		"replaces": "Castle",
 		"cost": 120,
-		"uniqueTo": "Ukraine",
+		"uniqueTo": "Gachi Empire",
 		"cityStrength": 10,
 		"cityHealth": 75,
 		"hurryCostModifier": 50,
